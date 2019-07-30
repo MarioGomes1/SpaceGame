@@ -17,7 +17,7 @@ namespace SpaceGame
         {
             Console.WriteLine(@"After years of government conflict and endless wars, the planet Earth has been depleted of nearly all
                                 its resources.");
-            Console.WriteLine();
+            Console.WriteLine("hfhjgfhj");
 
         }
     }
