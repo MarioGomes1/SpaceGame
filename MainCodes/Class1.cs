@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace MainCodes
 {
-    private water;
-
+    
     public class goods
     {
     }
