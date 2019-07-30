@@ -44,8 +44,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AllChallenges.cs" />
+    <Compile Include="FirstChallenge.cs" />
+    <Compile Include="FourthChallenge.cs" />
+    <Compile Include="Planets.cs" />
+    <Compile Include="Products.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondChallenge.cs" />
+    <Compile Include="ThirdChallenge.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

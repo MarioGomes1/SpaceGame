@@ -1,0 +1,7 @@
+﻿namespace SpaceGame
+{
+    class Products
+    {
+
+    }
+}

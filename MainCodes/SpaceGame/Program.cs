@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace SpaceGame
 {
-    class Planets
-    {
 
-    }
 
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(@"After years of government conflict and endless wars, the planet Earth has been depleted of nearly all
-                                its resources.");
+            Console.WriteLine(""); //Add STORY HERE
+            var planets = new Planets();
+            //FIRS STOP IS CHALLENGE..CREATE CHALLENGE CLASS
+            
+    
           
 
         }
