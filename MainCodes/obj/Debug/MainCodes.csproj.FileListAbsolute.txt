@@ -1,0 +1,4 @@
+C:\Users\mario\source\Mosh\MainCodes\obj\Debug\MainCodes.csprojAssemblyReference.cache
+C:\Users\mario\source\Mosh\MainCodes\obj\Debug\MainCodes.csproj.CoreCompileInputs.cache
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\obj\Debug\MainCodes.csprojAssemblyReference.cache
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\obj\Debug\MainCodes.csproj.CoreCompileInputs.cache

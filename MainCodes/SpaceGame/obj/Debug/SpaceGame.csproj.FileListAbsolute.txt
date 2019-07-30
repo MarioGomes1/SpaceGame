@@ -1,0 +1,16 @@
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.CodeAnalysisLog.xml
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.lastcodeanalysissucceeded
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mario\source\Mosh\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
