@@ -16,9 +16,9 @@ namespace SpaceGame
             var allchallenges = new AllChallenges();
             var planets = new Planets();
             //FIRS STOP IS CHALLENGE..CREATE CHALLENGE CLASS
-            
-    
-          
+            var FirstChallenge = new FirstChallenge();
+
+
 
         }
     }

@@ -14,3 +14,10 @@ C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.cs
 C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
 C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
 C:\Users\mario\Source\Repos\SpaceGame\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
