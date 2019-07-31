@@ -13,6 +13,7 @@ namespace SpaceGame
         static void Main(string[] args)
         {
             Console.WriteLine(""); //Add STORY HERE
+            var allchallenges = new AllChallenges();
             var planets = new Planets();
             //FIRS STOP IS CHALLENGE..CREATE CHALLENGE CLASS
             
