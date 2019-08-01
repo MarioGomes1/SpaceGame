@@ -1,7 +1,18 @@
-﻿namespace SpaceGame
+﻿
+
+using System.Dynamic;
+using static SpaceGame.Enumerations;
+
+namespace SpaceGame
 {
-    class Products
+    /// <summary>
+    /// This class represents the products available to the player
+    /// </summary>
+    public class Product
     {
+        public ProductTypes ProductType { get; set; }
+        public int Price { get; set; }
+        
 
     }
 }

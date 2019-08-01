@@ -45,9 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AllChallenges.cs" />
+    <Compile Include="Enumerations.cs" />
     <Compile Include="FirstChallenge.cs" />
     <Compile Include="FourthChallenge.cs" />
     <Compile Include="Planets.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Products.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

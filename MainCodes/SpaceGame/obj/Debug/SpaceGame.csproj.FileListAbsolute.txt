@@ -21,3 +21,10 @@ C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\Sp
 C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
 C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
 C:\Users\Pharaoh Manson\Source\Repos\SpaceGame2\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mario\source\lastest game update\MainCodes\SpaceGame\bin\Debug\SpaceGame.pdb

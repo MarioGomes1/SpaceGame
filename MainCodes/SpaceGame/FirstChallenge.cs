@@ -12,7 +12,7 @@ namespace SpaceGame
             while (true)
             {
                 string num1, num2, num3;
-                string userValue = Console.ReadLine();
+                //string userValue = Console.ReadLine();
                 Console.WriteLine("Space pirates are attacking your ship attempting to deplete\n" +
                                   "your resources, to stop them solve this math equation");
                 Console.WriteLine("You have a set of numbers 3,9,27,81 ... \n" +
