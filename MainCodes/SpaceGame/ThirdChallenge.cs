@@ -6,8 +6,8 @@ namespace SpaceGame
     {
         public void MethodThirdChallenge()
         {
-            while (true)
-            {
+            
+            
                 while (true)
                 {
                     Console.WriteLine("Space pirates are attacking your ship...\n" +
@@ -43,7 +43,7 @@ namespace SpaceGame
                     }
                 }
 
-            }
+            
         }
     }
 }
