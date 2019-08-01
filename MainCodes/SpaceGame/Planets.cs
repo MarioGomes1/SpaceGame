@@ -15,7 +15,7 @@ namespace SpaceGame
 
         public void sell()//return type will be changed 
         {
-
+            Console.WriteLine("dfdf");
         }
 
     }
