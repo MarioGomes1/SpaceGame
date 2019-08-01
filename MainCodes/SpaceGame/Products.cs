@@ -13,6 +13,6 @@ namespace SpaceGame
         public ProductTypes ProductType { get; set; }
         public int Price { get; set; }
         
-
+        
     }
 }

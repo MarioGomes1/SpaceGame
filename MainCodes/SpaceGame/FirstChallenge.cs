@@ -7,7 +7,7 @@ namespace SpaceGame
     {
         public void Method1stChallenge()
         {
-
+            
             // need to add 100 player tokens
             while (true)
             {
